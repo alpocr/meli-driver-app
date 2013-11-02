@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MelicDriver</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_logo_descip">Application Logo</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="login_username">Nombre</string>
+    <string name="login_idPlate">Placa</string>
+    <string name="loginButton">Identificarse</string>
+    <string name="title_activity_thread">ThreadActivity</string>
+    <string name="txrWaitingForRequest">Buscando Peticiones de Clientes!</string>
+
+</resources>
